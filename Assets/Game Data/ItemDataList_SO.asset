@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 488aaeb9c98e875488d4783791ae2ed7, type: 3}
+  m_Name: ItemDataList_SO
+  m_EditorClassIdentifier: 
+  itemDetails:
+  - ID: 0
+    itemName: Key
+    itemSprite: {fileID: 21300000, guid: fba0cde7dcc503043b0eb3a3fbec2221, type: 3}
+  - ID: 1
+    itemName: Mail
+    itemSprite: {fileID: 21300000, guid: 4ca16b1b3af874d45b0539ab01d652e9, type: 3}
